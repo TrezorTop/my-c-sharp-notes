@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{CA7459EF-B02F-49C2-AF2F-EB22B130CCAC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Main", "Main\Main.csproj", "{CA7459EF-B02F-49C2-AF2F-EB22B130CCAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryAllocations", "MemoryAllocations\MemoryAllocations.csproj", "{99FD8B18-D744-4F99-BF7F-325DE7A92D8C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +14,9 @@ Global
 		{CA7459EF-B02F-49C2-AF2F-EB22B130CCAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA7459EF-B02F-49C2-AF2F-EB22B130CCAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA7459EF-B02F-49C2-AF2F-EB22B130CCAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99FD8B18-D744-4F99-BF7F-325DE7A92D8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99FD8B18-D744-4F99-BF7F-325DE7A92D8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99FD8B18-D744-4F99-BF7F-325DE7A92D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99FD8B18-D744-4F99-BF7F-325DE7A92D8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
